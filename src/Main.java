@@ -98,6 +98,6 @@ public class Main {
         var totalEmployees2 = totalEmployees + 94;
         var hoursOfWork2 = totalEmployees2 * everyEmployeeWorks;
         System.out.println("Если в компании работает  " + totalEmployees2 + " человек, то всего " + hoursOfWork2 +
-                " часов работы может быть поделено между сотрудниками");
+                " часов работы может быть поделено между сотрудниками/");
     }
 }
